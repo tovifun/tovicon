@@ -154,3 +154,15 @@ font-weight: 600;
     transform: scale(1.2) rotate(10deg);
     transition: background 0.2s, transform 0.2s ease-out, fill 0.2s;
 }  */
+
+
+.t_icon{
+	margin-top:56px;
+	margin-left: 4px;
+	font-size: 18px;
+	font-weight: 500; 
+}
+
+.t_icon_caption{
+	color: rgba(2, 2, 2, 0.27);
+}
